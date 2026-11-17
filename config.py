@@ -1,2 +1,2 @@
-﻿MODEL = "deepseek-chat-v2"
+﻿MODEL = "deepseek-reasoner"
 TIMEOUT = 30
